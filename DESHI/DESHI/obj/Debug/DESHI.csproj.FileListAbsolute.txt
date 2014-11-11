@@ -1,0 +1,21 @@
+c:\users\constantine\documents\visual studio 2012\Projects\DESHI\DESHI\bin\Debug\DESHI.exe.config
+c:\users\constantine\documents\visual studio 2012\Projects\DESHI\DESHI\bin\Debug\DESHI.exe
+c:\users\constantine\documents\visual studio 2012\Projects\DESHI\DESHI\bin\Debug\DESHI.pdb
+c:\users\constantine\documents\visual studio 2012\Projects\DESHI\DESHI\obj\Debug\DESHI.csprojResolveAssemblyReference.cache
+c:\users\constantine\documents\visual studio 2012\Projects\DESHI\DESHI\obj\Debug\DESHI.Form1.resources
+c:\users\constantine\documents\visual studio 2012\Projects\DESHI\DESHI\obj\Debug\DESHI.Properties.Resources.resources
+c:\users\constantine\documents\visual studio 2012\Projects\DESHI\DESHI\obj\Debug\DESHI.csproj.GenerateResource.Cache
+c:\users\constantine\documents\visual studio 2012\Projects\DESHI\DESHI\obj\Debug\DESHI.exe
+c:\users\constantine\documents\visual studio 2012\Projects\DESHI\DESHI\obj\Debug\DESHI.pdb
+X:\DESHI\DESHI\bin\Debug\DESHI.exe.config
+X:\DESHI\DESHI\obj\Debug\DESHI.exe
+X:\DESHI\DESHI\obj\Debug\DESHI.pdb
+X:\DESHI\DESHI\bin\Debug\DESHI.exe
+X:\DESHI\DESHI\bin\Debug\DESHI.pdb
+X:\DESHI\DESHI\obj\Debug\DESHI.csprojResolveAssemblyReference.cache
+X:\DESHI\DESHI\obj\Debug\DESHI.Form1.resources
+X:\DESHI\DESHI\obj\Debug\DESHI.Properties.Resources.resources
+X:\DESHI\DESHI\obj\Debug\DESHI.csproj.GenerateResource.Cache
+X:\DESHI PAPKA\DESHI\DESHI\bin\Debug\DESHI.exe.config
+X:\DESHI PAPKA\DESHI\DESHI\obj\Debug\DESHI.exe
+X:\DESHI PAPKA\DESHI\DESHI\obj\Debug\DESHI.pdb
